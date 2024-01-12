@@ -1,0 +1,63 @@
+*{
+    font-size: 20px;
+    /* background-color: black; */
+}
+#again-button{
+    padding: 20px 40px;
+}
+.headelements{
+    display: flex;
+    /* align-items: stretch; */
+    justify-content: space-between;
+}
+h1{
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+}
+.sub-container{
+    display: flex;
+    justify-content: center;
+}
+.hrline{
+    width: 100%;
+    height: 2px;
+    background-color: black;
+    margin-top: -70px;
+}
+#number{
+    border: 3px solid black;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 30px;
+    background: #eee;
+    color: #333;
+}
+input{
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.main-body{
+    display: flex;
+    justify-content: center;
+    /* margin-left: 200px; */
+    margin-top: 50px;
+}
+.sub-body{
+    margin-left: 100px;
+
+   
+}
+.score{
+    margin-top: 38px;
+}
+#check-button{
+    display: flex;
+    justify-content: center;
+    margin-left: 370px;
+    margin-top: -65px;
+    cursor: pointer;
+}
